@@ -165,7 +165,7 @@ function App() {
           alignItems: "center",
         }}
       >
-        <div>Section 02</div>
+        <div>Dashboard</div>
       </div>
     </div>
   );

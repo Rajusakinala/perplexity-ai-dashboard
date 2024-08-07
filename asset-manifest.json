@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/perplexity-ai-dashboard/static/css/main.a813b486.css",
+    "main.js": "/perplexity-ai-dashboard/static/js/main.916eb534.js",
+    "static/js/453.0e5a04e5.chunk.js": "/perplexity-ai-dashboard/static/js/453.0e5a04e5.chunk.js",
+    "static/media/logoNew.png": "/perplexity-ai-dashboard/static/media/logoNew.d45f0048fb2dd4ca8a17.png",
+    "index.html": "/perplexity-ai-dashboard/index.html",
+    "main.a813b486.css.map": "/perplexity-ai-dashboard/static/css/main.a813b486.css.map",
+    "main.916eb534.js.map": "/perplexity-ai-dashboard/static/js/main.916eb534.js.map",
+    "453.0e5a04e5.chunk.js.map": "/perplexity-ai-dashboard/static/js/453.0e5a04e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a813b486.css",
+    "static/js/main.916eb534.js"
+  ]
+}
